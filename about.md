@@ -1,11 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Acerca de
+permalink: /acerca de.../
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Hola mi nombre es Edgar Lira Gutierrez soy una apasionado del desarrollo de software, llevo varios años programando en Java y quiero compartir con ustedes lo que he aprendido en este tiempo.
